@@ -33,6 +33,12 @@ export default function Footer() {
                         LinkedIn
                     </a>
                 </li>
+
+                <li>
+                    <a href="https://itis-3135-react-two.vercel.app/" target="_blank" rel="noopener noreferrer">
+                    Vercel
+                    </a>
+                </li>
             </ul>
         </footer>
     );
